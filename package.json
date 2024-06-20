@@ -1,0 +1,19 @@
+{
+  "name": "cypress_qa",
+  "version": "1.0.0",
+  "description": "Testing for QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "automation",
+    "framework",
+    "sypress"
+  ],
+  "author": "IFC",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.0.2"
+  }
+}
